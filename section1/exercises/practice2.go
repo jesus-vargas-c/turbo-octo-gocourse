@@ -4,12 +4,12 @@ import (
 	"fmt"
 )
 
-var x int
-var y string
-var z bool
+var x2 int
+var y2 string
+var z2 bool
 
 func Practice2() {
-	fmt.Println(x)
-	fmt.Println(y)
-	fmt.Println(z)
+	fmt.Println(x2)
+	fmt.Println(y2)
+	fmt.Println(z2)
 }
